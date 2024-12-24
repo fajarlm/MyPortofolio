@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio&#160;Jar</title>
-    <link rel="shortcut icon" href="jk.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="./img/jk.jpg" type="image/x-icon">
 
     <link rel="stylesheet" href="ptfl.css">
 
@@ -47,7 +47,7 @@
             <div class="home-img">
                 <div class="img-box">
                     <div class="img-item">
-                        <img id="nama" src="profil.png" alt="">
+                        <img id="nama" src="./img/profil.png" alt="">
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
             <h2 class="About-tittle">About</h2>
             <div class="about-content">
                 <div class="About-img">
-                    <img src="jk.jpg" alt="">
+                    <img src="./img/jk.jpg" alt="">
                 </div>
                 <div class="About-Text">
                     <h3>Fajar Kusuma</h3>
@@ -70,11 +70,11 @@
             <h2 class="skill-tittle">SKILLS</h2>
             <p>these are the skills that I have</p>
             <div class="skill-content">   
-                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="html.png" alt=""></a>                 
-                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="bos.png" alt=""></a>                                
-                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="css-3.png" alt=""></a>                            
-                <a href="https://www.python.org/doc/" target="_blank"><img src="image.png" alt=""></a>                
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="js.png" alt=""></a>  
+                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="./img/html.png" alt=""></a>                 
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./img/bos.png" alt=""></a>                                
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./img/css-3.png" alt=""></a>                            
+                <a href="https://www.python.org/doc/" target="_blank"><img src="./img/image.png" alt=""></a>                
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./img/js.png" alt=""></a>  
             </div>
         </section>
         <section id="Project" class="project">
@@ -83,7 +83,7 @@
             </div>
             <div class="project-content">
                 <div class="project-1">
-                    <img src="./kata.png" alt="">
+                    <img src="./img/kata.png" alt="">
                     <div class="project-info1">    
                         <h3>Book Catalog Web APP </h3>
                         <div class="project-icon" >
@@ -104,7 +104,7 @@
                         <p>Made with HTML, CSS & Javascript, this is a Surabaya website that contains history, culture, geography and interesting things about the city of Surabaya.</p>
                     </div>
                     <div class="project-box">
-                        <img src="./projects.png" alt="">
+                        <img src="./img/projects.png" alt="">
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
             <h2 class="education-title">My Education</h2>
             <div class="education-content">
                 <div class="education-item">
-                    <a href="https://smkwikrama.sch.id/" target="_blank"><img src="wk.jpg" alt="SMK Wikrama Bogor" class="education-photo"></a>
+                    <a href="https://smkwikrama.sch.id/" target="_blank"><img src="./img/wk.jpg" alt="SMK Wikrama Bogor" class="education-photo"></a>
                     <div class="education-details">
                         <h3>
                             <a href="https://smkwikrama.sch.id/" target="_blank">SMK Wikrama Bogor</a>
@@ -124,7 +124,7 @@
                     </div>
                 </div>
                 <div class="education-item">
-                    <a href="https://www.yarsyi.org/tentang/" target="_blank"><img src="ar.jpg" alt="MTs Arrasyid 1" class="education-photo"></a>
+                    <a href="https://www.yarsyi.org/tentang/" target="_blank"><img src="./img/ar.jpg" alt="MTs Arrasyid 1" class="education-photo"></a>
                     <div class="education-details">
                         <h3> 
                             <a href="https://www.yarsyi.org/tentang/" target="_blank">MTs Arrasyid 1</a>
@@ -134,7 +134,7 @@
                     </div>
                 </div>
                 <div class="education-item">
-                    <a href="https://annibuku.com/sekolah/9032-mis-ar-rasyid-i" target="_blank"><img src="p.jpg" alt="mi arrasyid 1" class="education-photo"></a>
+                    <a href="https://annibuku.com/sekolah/9032-mis-ar-rasyid-i" target="_blank"><img src="./img/p.jpg" alt="mi arrasyid 1" class="education-photo"></a>
                     <div class="education-details">
                         <h3>
                             <a href="https://annibuku.com/sekolah/9032-mis-ar-rasyid-i" target="_blank">MI Arrasyid 1</a>
